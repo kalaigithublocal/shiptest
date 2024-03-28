@@ -11,11 +11,5 @@
             "Shiptest\\Localtest\\": ""
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/kalaigithublocal/shiptest"
-        }
-    ],
     "minimum-stability": "dev",
 }
