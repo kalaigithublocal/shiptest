@@ -18,7 +18,4 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "kalaigithublocal/shiptest": "*"
-    }
 }
