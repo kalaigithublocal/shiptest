@@ -1,1 +1,1 @@
-composer require kalaigithublocal/shiptest
+composer require shiptest/module-localtest
